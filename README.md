@@ -1,6 +1,6 @@
 # MECS004-30040 Parallel-and-Distributed-Computing
 
-The course covered topics such as:
+The repository consists of assignments from the course topics such as:
 
 * Parallel hardware architectures and concepts
 * Distributed-memory parallelism: MPI
