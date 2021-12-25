@@ -1,0 +1,3 @@
+numba
+wurlitzer
+cupy-cuda112
